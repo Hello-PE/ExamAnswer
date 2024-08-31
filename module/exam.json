@@ -1,0 +1,1509 @@
+{
+  "status": 200,
+  "code": 200,
+  "success": true,
+  "msg": "",
+  "msgDev": "",
+  "data": [
+    {
+      "QSID": 25468,
+      "Title": "在HTML中,关于W3C以下描述错误的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "W3C称为万维网联盟,"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "成立于1994年,是国际中立性技术标准机构"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "W3C中文官方网站是http://www.chinaw3c.org/"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "W3C标准包括结构化标准语言,表现标准语言,可视化标准三个部分"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25920,
+      "Title": "在HTML中,要将图片pic01.gif插入到网页中,图片的具体信息描述如下:图片的相对路径为:/images/pic01.gif 宽:120px 高:130px 边框:1px则以下(  )段HTML代码能够实现。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "<img floder=\"/images/pic01.gif\" height=\"130\" width=\"120\" border=\"1\">"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<image floder=\"/images/pic01.gif\" height=\"120\" width=\"130\" border=\"1\">"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "<img src=\"/images/pic01.gif\" height=\"130\" width=\"120\" border=\"1\">"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<image src=\"/images/pic01.gif\" height=\"120\" width=\"130\" border=\"1\">"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25424,
+      "Title": "在HTML中,可以实现在浏览器窗口显示文档标题的标签是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "<head>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<body>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<html>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "<title>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25488,
+      "Title": "HTML5的优势是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "只有一个浏览器支持"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "兼容性很差"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "跨平台"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "简单易用"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": true,
+      "Multi": "选择二项"
+    },
+    {
+      "QSID": 25739,
+      "Title": "下列哪个标签是HTML5中新增的( )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "<table>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<div>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<header>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "<input>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25936,
+      "Title": "在HTML中,下列代码是实现\"注册\"的超链接,要求点击\"注册\"后register.html页面在自身窗口打开,横线处应该填写( )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "①:href\r\n②:_ blank"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "①:href\r\n②:_self"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "①:src\r\n②:_blank"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "①:src\r\n②:_self"
+        }
+      ],
+      "Pic": "",
+      "Code": "<a __①__=\"register.html\"  target=\"__②__\">注册</a>",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25891,
+      "Title": "在HTML中,设置图片时,替换文本属性是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "src属性"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "name属性"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "alt属性"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "title属性"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25554,
+      "Title": "nav元素不可以应用于以下的( )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "翻页操作"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "传统导航条"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "页外导航"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "侧边栏导航"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25491,
+      "Title": "在HTML中,<img>标签是种()标签。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "根标签"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "属性标签"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "组合标签"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "自闭合标签"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25749,
+      "Title": "下列关于html的说法,错误的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "所有网页的后缀扩展名都是以.html结尾"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "www服务和电子邮件服务是Internet提供的最常用的两种服务"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "网站可以视为一个整体的页面的集合"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "使用www服务时,需要使用浏览器作为客户端程序"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25767,
+      "Title": "1. 将HTML5 文档指定的编码方式为utf-8,以下哪项是正确的？ (       )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<document char=\"utf-8\">"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<meta  charset=\"UTF-8\" >"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<% response.setContentType=\"utf-8\"%>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<%@ page setPageEncoding=\"utf-8\"%>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25460,
+      "Title": "下面关于HTML概念错误的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "超文本标记语言的结构包括\"头\"部分(英语:Head)、和\"主体\"部分(英语:Body),其中\"头\"部提供关于网页的信息,\"主体\"部分提供网页的具体内容。"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "HTML全称是Happy type money langer"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "超文本标记语言,标准通用标记语言下的一个应用"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "\"超文本\"就是指页面内可以包含图片、链接,甚至音乐、程序等非文字元素"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25426,
+      "Title": "在HTML5中,下面可以显示粗体的标签是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<strong>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "<a>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "<b>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "<P  weight=\"900\">"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": true,
+      "Multi": "选择二项"
+    },
+    {
+      "QSID": 25467,
+      "Title": "在HTML中,关于HTML结构以下描述正确的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "HTML中有的标签是成对的标签,比如<hr></hr>标签"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "HTML开始要有DOCTYPE声明:<!DOCTYPE html>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "关于html的字符编码是meta标签的unicode属性"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "在<html></html>中嵌套三个子标签,分别是<head></head>,<body></body>,<foot></foot>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17015,
+      "Title": "在html5中,下列关于图片标签说法正确的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "所列选项均不正确"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<img />标签中的src属性是实现鼠标移至图片上提示文字显示的"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "<img />标签中的title属性是实现鼠标移至图片上提示文字显示的"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<img />标签中的alt属性是实现鼠标移至图片上提示文字显示的"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17042,
+      "Title": "如果在catalog.html中包含如下代码,则该HTML文档IE浏览器打开后,用户单击此链接将(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "使页面跳转到catalog.html包含名为\"novel\"的锚记处"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "使页面跳转到同一文件夹下名为\"小说.htm1\"的HTML文档"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "使页面跳转到同一文件夹下名为\"novel.html\"的HTML文档"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "使用页面跳转到同一文件夹下名为\"小说.html\"的HTML文档中名为\"novel\"的锚记处"
+        }
+      ],
+      "Pic": null,
+      "Code": "<a href=\"#novel\">小说</a>",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25798,
+      "Title": "在html中,制作一个基本的网页结构是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "<html>< title >..</ title >< frame >..</ frame ></html>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<html><title>..</title><body>..</body></html>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "<html><head>..</head><body>..</body></html>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<html><head>..</head><frame>..</frame></html>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25872,
+      "Title": "下面的标记用于表示HTML文档的结束的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "</table>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "</html>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "</body>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "< /title>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25789,
+      "Title": "下面哪些标签是自闭合标签()？。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "<br>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "<p>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<body>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "<font>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25522,
+      "Title": "HTML5中不再支持下面(  )元素。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<menu>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<ins>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<font>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<q>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25534,
+      "Title": "实现下拉列表框,要用到下面的(  )标签。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "option"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "radion"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "input"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "select"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": true,
+      "Multi": "选择二项"
+    },
+    {
+      "QSID": 25827,
+      "Title": "在HTML语言中,对下列代码表述正确的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "\"S1\"使用了单元格跨列合并"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "这是一个二行一列的表格"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "这是一个一行二列的表格"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "\"S1\"使用了单元格跨行合并"
+        }
+      ],
+      "Pic": "",
+      "Code": "<table>\r\n<tr>\r\n    <td rowspan=\"2\">S1</td>\r\n    <td>Java</td>\r\n</tr>\r\n<tr>\r\n    <td>HTML</td> \r\n</tr> \r\n</table>",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25869,
+      "Title": "关于HTML的标签,下列说法正确的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "不区分大小写,但一般都使用小写"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "能够用记事本编写"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "所有标签都是成对出现"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "所有标签都是放在<>里"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": true,
+      "Multi": "选择多项"
+    },
+    {
+      "QSID": 25497,
+      "Title": "W3C和万维网联盟是什么关系(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "合作伙伴"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "W3C是万维网联盟的创造者"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "万维网联盟创造了W3C标准"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "W3C就是万维网联盟"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25675,
+      "Title": "关于Html5说法错误的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "HTML5仍处于完善之中,大部分浏览器已经具备了某些HTML5支持"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "HTML5可以取代动画和JavaScript"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "HTML5将成为HTML,XHTML以及HTML DOM的新标准"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "HTML5是下一代的HTML"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25523,
+      "Title": "img标签中src属性表示？( )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "图片存储的地址"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "图片的描述"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "图片的名称"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "图片大小"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25457,
+      "Title": "在HTML中,使用<IMG>标签插入图像,下列选项关于<IMG>的src属性说法正确的是(    )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "用来设置图片文件的格式"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "用来设置图片文件所在的位置"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "用来设置图片周围显示的文字"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "用来设置鼠标指向图片时显示的文字"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25539,
+      "Title": "在html中,关于属性accesskey描述错误的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "几乎所有的浏览器均支持accesskey属性,除了Opera"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "<area>,<button>,<input>都支持accesskey属性"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "accesskey属性规定激活元素的快捷键"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "<a>元素不支持accesskey属性"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25713,
+      "Title": "在HTML中,已知services.html与text.html在同一服务器上,但不在同一文件夹中．假如文档 services.html在文件夹information中,information和text.html为同级文件,现要求在text.html文档中编写一个超链接,链接到文档services.html 的id为proposals的段落．下面语句正确的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<a  href =\" #proposals\"> Link</a>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "<a  href =\"information#proposals\"> Link</a>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<a  href=\"services.html#proposals\"> Link</a>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<a  href =\"information/services.html#proposals\"> Link</a>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25556,
+      "Title": "以下是input在HTML5的新类型的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "Range"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "Color"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "DateTime"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "所列选项都是"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17017,
+      "Title": "在HTML网页中,必须使用(  )标记来完成超级链接。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<link>···</link>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "<a>···</a>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<li>···</li>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<p>···</p>"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25647,
+      "Title": "HTML中,跳转到\"hello.html\"页面的\"bn\"锚点的代码是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "<a href=\"hello.html&bn\"> ..."
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<a href=\"hello.html#bn\"> ..."
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<a href=\"#bn\"> ... </a>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<a href=\"bnl#hellohtml\"> ..."
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25472,
+      "Title": "在W3C标准集合中,以下( )不是网页主要组成部分。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "行为(Behavior)"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "内容(Content)"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "结构(Structure)"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "表现(Presentation)"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17051,
+      "Title": "在HTML中,关于<img src=\"server.jpg\" width=\"160\" heigth=\"100\" border=\"1\">语句,下列说法正确的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "添加名字为src的图片,高100像素,宽160像素"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "添加名字为server.jpg的图片,高图片向右偏移"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "添加名字为server.jpg的图片,宽160像素,高100像素,图片有1像素的边框"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "添加名字为server.jpg的图片像素,高100像素,图片的流量为1"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25583,
+      "Title": "在HTML中,以下标签不是行内标签的有(　)。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "<em>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<li>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<span>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<strong>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25660,
+      "Title": "HTML是:(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "A,",
+          "OptionValue": "高级文本语言"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "超文本标记语言"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "扩展标记语言"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "图形化标记语言"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17032,
+      "Title": "HTML5之前的html版本是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "HTML4.9"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "HTML4.1"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "HTML4"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "HTML4.01"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25408,
+      "Title": "在HTML中,<a>标签的target属性说法错误的是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "_blank:在当前窗口打开"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "target属性值用来指定链接在哪个窗口打开"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "_parent:在父级窗口打开"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "_top:在当前的整个浏览器中打开所链接文档,即在顶级窗口打开"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25765,
+      "Title": "在HTML中,以下关于图像标签的说法错误的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "图像标签中的width属性是图像的宽度"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "图像标签中的height属性是图像的高度"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "图像标签中的alt属性是鼠标悬停提示文字"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "图像标签中的src属性是图像地址"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25736,
+      "Title": "在HTML5中,以下关于doctype定义正确的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "所列选项均错误"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<!DOCTYPE html>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\" \"http://www.w3.org/TR/html5/strict.dtd\">"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<!DOCTYPE HTML5>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17020,
+      "Title": "在HTML中,可以使用标记(  )向网页中插,入GIF动画文件。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<body>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "B,",
+          "OptionValue": "<table>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<form>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "<img>"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25504,
+      "Title": "下列关于HTML描述错误的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "根据用户处理操作位置的不同,HTML可以分为两大类:服务器端动态网页和客户端动态网页"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "HTML是超文本标记语言（英语：HyperText Markup Language）是一种用于创建网页的标准标记语言"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "DHTML技术包括CSS、HTML4.0、DOM和脚本语言"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "DHTML是在HTML基础上发展的一门语言"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 17018,
+      "Title": "我们想要在HTML文档中加入图像,可以使用哪个标记来实现(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "<picture>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<image>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<img>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "<pic>"
+        }
+      ],
+      "Pic": null,
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25448,
+      "Title": "HTML是一种页面()型的语言。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "编译"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "描述"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "执行"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "A,",
+          "OptionValue": "程序设计"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25548,
+      "Title": "网站的站点相对路径是由一个向前的斜线\"/\"开始,它表示( )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "在客户机上文件的子目录"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "D,",
+          "OptionValue": "在客户机上文件的根目录"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "在服务器上的站点的根目录"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "在服务器上的站点的子目录"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25903,
+      "Title": "在HTML中,下列哪一项不是HTML文件的基本结构标签(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "B,",
+          "OptionValue": "<HEAD>…</HEAD>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "C,",
+          "OptionValue": "<SCRIPT>…</SCRIPT>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "A,",
+          "OptionValue": "<HTML>…</HTML>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "<BODY>…</BODY>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25413,
+      "Title": "在HTML结构中,最外围的标签是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "<head>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "<body>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "C,",
+          "OptionValue": "<html>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<title>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25492,
+      "Title": "以下关于HTML文档的说法正确的一项是(  )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "HTML文档只是一种简单的ASCII码文本"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "<HTML>与</HTML>这两个标记合起来说明在它们之间的文本表示两个HTML文本"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "HTML文档是一个可执行的文档"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "D,",
+          "OptionValue": "HTML文档的结束标记</HTML>可以省略不写"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25435,
+      "Title": "以下选项中,可以将html页面的标题设置为\"北大青鸟云题库\"的是(   )。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "C,",
+          "OptionValue": "<h>北大青鸟云题库</h>"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "<head>北大青鸟云题库</head>"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "D,",
+          "OptionValue": "<t>北大青鸟云题库</t>"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "B,",
+          "OptionValue": "<title>北大青鸟云题库</title>"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    },
+    {
+      "QSID": 25628,
+      "Title": "在HTML中,( )用来表示特殊字符引号。",
+      "ChoseOption": [
+        {
+          "ShowOption": "A",
+          "OptionKey": "D,",
+          "OptionValue": "&nbsp;"
+        },
+        {
+          "ShowOption": "B",
+          "OptionKey": "A,",
+          "OptionValue": "&quot;"
+        },
+        {
+          "ShowOption": "C",
+          "OptionKey": "B,",
+          "OptionValue": "&gt;"
+        },
+        {
+          "ShowOption": "D",
+          "OptionKey": "C,",
+          "OptionValue": "&copy;"
+        }
+      ],
+      "Pic": "",
+      "Code": "",
+      "isMulti": false,
+      "Multi": "选择一项"
+    }
+  ]
+}
